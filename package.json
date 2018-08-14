@@ -1,7 +1,7 @@
 {
   "name": "ionic-cache",
-  "version": "4.0.0",
-  "description": "Ionic cache service - cache request, data, promises etc.",
+  "version": "14.0.0",
+  "description": "HMG Ionic cache service - cache request, data, promises etc.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "module": "dist/index.js",
